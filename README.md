@@ -4,4 +4,6 @@ register @ https://www.amazon.de/clouddrive  <br>
 install https://github.com/yadayada/acd_cli  <br>
 register@ https://my.jdownloader.org  <br>
 install http://jdownloader.org  <br>
-install https://www.filebot.net
+install https://www.filebot.net <br>
+install http://flexget.com/InstallWizard/Linux <br>
+use @ https://github.com/crack00r/Flexget-Config

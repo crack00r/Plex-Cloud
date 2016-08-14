@@ -1,7 +1,7 @@
-register @ www.plex.tv
-install https://www.plex.tv/downloads
-register @ https://www.amazon.de/clouddrive
-install https://github.com/yadayada/acd_cli
-register@ https://my.jdownloader.org
-install http://jdownloader.org
+register @ www.plex.tv <br>
+install https://www.plex.tv/downloads  <br>
+register @ https://www.amazon.de/clouddrive  <br>
+install https://github.com/yadayada/acd_cli  <br>
+register@ https://my.jdownloader.org  <br>
+install http://jdownloader.org  <br>
 install https://www.filebot.net

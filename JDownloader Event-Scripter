@@ -1,0 +1,1 @@
+[{"eventTrigger":"ON_ARCHIVE_EXTRACTED", "enabled":true, "name":"FileBot", "script":"var amcFile = \"/path/to/JDtoFilebot.sh\";var path = archive.getFolder(); callAsync(function() {}, amcFile, path);", "eventTriggerSettings":{}, "id":1470601519456}]
